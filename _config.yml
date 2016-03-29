@@ -1,29 +1,40 @@
-name: alexnussbaum
-favicon: null
-layout_spectrum: 0.6013571151997894
-typography_spectrum: 0.44776712311431766
 title: alexnussbaum.com
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.3423008194658905
+  brandStrength: 0.1683674391824752
+  lightness: 0.7527739412616938
+  brandColors:
+    - '#FFFFFF'
+    - '#171715'
+    - '#434341'
+    - '#E2E0DF'
+  rhythmicContrast: 0.8835799074731767
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: alexnussbaum
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.1683674391824752
-  lightness: 0.7527739412616938
-  saturation: 0.3423008194658905
-  rhythmicContrast: 0.8835799074731767
-purpose: []
+typography_spectrum: 0.5093985
+layout_spectrum: 0.906015
